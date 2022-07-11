@@ -1,14 +1,19 @@
 # PROFOLIO
 
-Hi there, my name is Joseph Okoth. I'm popularly known as Joseph Aoga accross several social media platforms. This is my professional portfolio dubbed Profolio which also serves as my online resume and official website. On it, you'll learn more about me and how to get in touch.
+Hi there, my name is Joseph Okoth. I go by Joseph Aoga on social media. 
 
-Some sections are intentionally disabled as the website is bound to future updates. The processes of making updates is still underway as I intend to make the website as great as possible while remaining brutally honest. I just want to make sure that the website depicts my personal image, from my personal information to my professional background, skills and everything else found on it.
+Welcome to my professional portfolio alias Profolio. It serves also as my official website and online resume. On it, you'll get to know more about me and learn how to get in touch.
 
-If you find the template useful, feel free to fork the repository, reach out for a chat and don't forget to leave a star behind.
+Some sections were intentionally excluded to allow future updates. The processes of updating the website with newer features is continous and my plans are to make the website as perfect as possible and be brutally honest with the information it relays. Essentially, it must reflect my personal image and all I have to offer. For instance, my personal information, professional background, skills and everything else.
 
-Let me know your thoughts on Profolio.
+If you find the project useful, feel free to fork the repo or reach out for a chat and don't forget to leave a star behind.
 
-Kind regards.
+What are your thoughts on Profolio? 
+I'd love to hear them!
+
+Kind regards,
+Joseph Aoga.
+
 
 Profolio URL:
 [myprofolio](https://profolio.github.com/josephaoga/109311bb0361f32d87a2).
@@ -28,7 +33,7 @@ If you are a developer, you are good to go.
 ## Author
 
   - **Joseph Aoga** - 
-    [aogajospeh](https://github.com/aogajoseph)
+    [aogajoseph](https://github.com/aogajoseph)
 
 ## License
 
@@ -40,4 +45,3 @@ details
 
   - Joseph Aoga
   - Ideation Systems LLC
-  - etc
